@@ -1,0 +1,29 @@
+﻿@model OrderForm
+@{
+    List<Product> products = ViewBag.CartProducts;
+}
+<h1>Nákupní košík</h1>
+@foreach(Product p in products)
+{
+    <li>@p.Name</li>
+}
+
+@using (Html.BeginForm())
+{
+    <div>
+        @Html.LabelFor(x => x.Name)
+        @Html.TextBoxFor(x => x.Name)
+    </div>
+
+    <div>
+        @Html.LabelFor(x => x.Email)
+        @Html.TextBoxFor(x => x.Email)
+    </div>
+
+    <div>
+        @Html.LabelFor(x => x.Quantity)
+        @Html.TextBoxFor(x => x.Quantity)
+    </div>
+
+    <button type="submit">Odeslat</button>
+}

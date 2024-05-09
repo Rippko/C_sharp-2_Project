@@ -1,0 +1,14 @@
+C:\Programování\3.ročník\6.semestr\C#\CV03\Thready\Thready\bin\Debug\net8.0\Thready.exe
+C:\Programování\3.ročník\6.semestr\C#\CV03\Thready\Thready\bin\Debug\net8.0\Thready.deps.json
+C:\Programování\3.ročník\6.semestr\C#\CV03\Thready\Thready\bin\Debug\net8.0\Thready.runtimeconfig.json
+C:\Programování\3.ročník\6.semestr\C#\CV03\Thready\Thready\bin\Debug\net8.0\Thready.dll
+C:\Programování\3.ročník\6.semestr\C#\CV03\Thready\Thready\bin\Debug\net8.0\Thready.pdb
+C:\Programování\3.ročník\6.semestr\C#\CV03\Thready\Thready\obj\Debug\net8.0\Thready.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programování\3.ročník\6.semestr\C#\CV03\Thready\Thready\obj\Debug\net8.0\Thready.AssemblyInfoInputs.cache
+C:\Programování\3.ročník\6.semestr\C#\CV03\Thready\Thready\obj\Debug\net8.0\Thready.AssemblyInfo.cs
+C:\Programování\3.ročník\6.semestr\C#\CV03\Thready\Thready\obj\Debug\net8.0\Thready.csproj.CoreCompileInputs.cache
+C:\Programování\3.ročník\6.semestr\C#\CV03\Thready\Thready\obj\Debug\net8.0\Thready.dll
+C:\Programování\3.ročník\6.semestr\C#\CV03\Thready\Thready\obj\Debug\net8.0\refint\Thready.dll
+C:\Programování\3.ročník\6.semestr\C#\CV03\Thready\Thready\obj\Debug\net8.0\Thready.pdb
+C:\Programování\3.ročník\6.semestr\C#\CV03\Thready\Thready\obj\Debug\net8.0\Thready.genruntimeconfig.cache
+C:\Programování\3.ročník\6.semestr\C#\CV03\Thready\Thready\obj\Debug\net8.0\ref\Thready.dll

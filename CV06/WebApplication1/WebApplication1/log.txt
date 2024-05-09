@@ -1,0 +1,124 @@
+The method or operation is not implemented.
+   at WebApplication1.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\SecondPageMiddleware.cs:line 14
+   at WebApplication1.FirstPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FirstPageMiddleware.cs:line 20
+   at WebApplication1.AuthMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\AuthMiddleware.cs:line 17
+   at WebApplication1.ErrorMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\SecondPageMiddleware.cs:line 14
+   at WebApplication1.FirstPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FirstPageMiddleware.cs:line 20
+   at WebApplication1.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FileMiddleware.cs:line 24
+   at WebApplication1.AuthMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\AuthMiddleware.cs:line 17
+   at WebApplication1.ErrorMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\SecondPageMiddleware.cs:line 14
+   at WebApplication1.FirstPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FirstPageMiddleware.cs:line 20
+   at WebApplication1.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FileMiddleware.cs:line 24
+   at WebApplication1.AuthMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\AuthMiddleware.cs:line 17
+   at WebApplication1.ErrorMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\SecondPageMiddleware.cs:line 14
+   at WebApplication1.FirstPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FirstPageMiddleware.cs:line 20
+   at WebApplication1.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FileMiddleware.cs:line 24
+   at WebApplication1.AuthMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\AuthMiddleware.cs:line 17
+   at WebApplication1.ErrorMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\SecondPageMiddleware.cs:line 14
+   at WebApplication1.FirstPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FirstPageMiddleware.cs:line 20
+   at WebApplication1.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FileMiddleware.cs:line 25
+   at WebApplication1.AuthMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\AuthMiddleware.cs:line 17
+   at WebApplication1.ErrorMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\SecondPageMiddleware.cs:line 14
+   at WebApplication1.FirstPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FirstPageMiddleware.cs:line 20
+   at WebApplication1.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FileMiddleware.cs:line 25
+   at WebApplication1.AuthMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\AuthMiddleware.cs:line 17
+   at WebApplication1.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\SecondPageMiddleware.cs:line 14
+   at WebApplication1.FirstPageMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FirstPageMiddleware.cs:line 21
+   at WebApplication1.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FileMiddleware.cs:line 25
+   at WebApplication1.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\AuthMiddleware.cs:line 19
+   at WebApplication1.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\ErrorMiddleware.cs:line 15Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at WebApplication1.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\AuthMiddleware.cs:line 20
+   at WebApplication1.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\SecondPageMiddleware.cs:line 14
+   at WebApplication1.FirstPageMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FirstPageMiddleware.cs:line 21
+   at WebApplication1.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FileMiddleware.cs:line 25
+   at WebApplication1.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\AuthMiddleware.cs:line 19
+   at WebApplication1.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\ErrorMiddleware.cs:line 15Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at WebApplication1.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\AuthMiddleware.cs:line 20
+   at WebApplication1.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\SecondPageMiddleware.cs:line 14
+   at WebApplication1.FirstPageMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FirstPageMiddleware.cs:line 21
+   at WebApplication1.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\FileMiddleware.cs:line 25
+   at WebApplication1.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\AuthMiddleware.cs:line 19
+   at WebApplication1.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\ErrorMiddleware.cs:line 15Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at WebApplication1.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\AuthMiddleware.cs:line 20
+   at WebApplication1.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\ErrorMiddleware.cs:line 15Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at WebApplication1.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\AuthMiddleware.cs:line 20
+   at WebApplication1.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\ErrorMiddleware.cs:line 15Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at WebApplication1.Middlewares.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\AuthMiddleware.cs:line 20
+   at WebApplication1.Middlewares.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.Middlewares.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\SecondPageMiddleware.cs:line 14
+   at WebApplication1.Middlewares.FirstPageMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\FirstPageMiddleware.cs:line 21
+   at WebApplication1.Middlewares.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\FileMiddleware.cs:line 25
+   at WebApplication1.Middlewares.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\AuthMiddleware.cs:line 19
+   at WebApplication1.Middlewares.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.Middlewares.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\SecondPageMiddleware.cs:line 14
+   at WebApplication1.Middlewares.FirstPageMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\FirstPageMiddleware.cs:line 21
+   at WebApplication1.Middlewares.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\FileMiddleware.cs:line 25
+   at WebApplication1.Middlewares.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\AuthMiddleware.cs:line 19
+   at WebApplication1.Middlewares.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\ErrorMiddleware.cs:line 15Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at WebApplication1.Middlewares.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\AuthMiddleware.cs:line 20
+   at WebApplication1.Middlewares.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\ErrorMiddleware.cs:line 15Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at WebApplication1.Middlewares.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\AuthMiddleware.cs:line 20
+   at WebApplication1.Middlewares.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\ErrorMiddleware.cs:line 15Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at WebApplication1.Middlewares.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\AuthMiddleware.cs:line 20
+   at WebApplication1.Middlewares.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\ErrorMiddleware.cs:line 15Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at WebApplication1.Middlewares.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\AuthMiddleware.cs:line 20
+   at WebApplication1.Middlewares.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\ErrorMiddleware.cs:line 15Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at WebApplication1.Middlewares.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\AuthMiddleware.cs:line 20
+   at WebApplication1.Middlewares.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.Middlewares.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\SecondPageMiddleware.cs:line 14
+   at WebApplication1.Middlewares.FirstPageMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\FirstPageMiddleware.cs:line 21
+   at WebApplication1.Middlewares.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\FileMiddleware.cs:line 25
+   at WebApplication1.Middlewares.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\AuthMiddleware.cs:line 19
+   at WebApplication1.Middlewares.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.Middlewares.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\SecondPageMiddleware.cs:line 14
+   at WebApplication1.Middlewares.FirstPageMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\FirstPageMiddleware.cs:line 21
+   at WebApplication1.Middlewares.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\FileMiddleware.cs:line 25
+   at WebApplication1.Middlewares.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\AuthMiddleware.cs:line 19
+   at WebApplication1.Middlewares.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\ErrorMiddleware.cs:line 15Headers are read-only, response has already started.
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpHeaders.ThrowHeadersReadOnlyException()
+   at Microsoft.AspNetCore.Server.Kestrel.Core.Internal.Http.HttpResponseHeaders.Microsoft.AspNetCore.Http.IHeaderDictionary.set_ContentType(StringValues value)
+   at WebApplication1.Middlewares.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\AuthMiddleware.cs:line 20
+   at WebApplication1.Middlewares.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.Middlewares.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\SecondPageMiddleware.cs:line 14
+   at WebApplication1.Middlewares.FirstPageMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\FirstPageMiddleware.cs:line 21
+   at WebApplication1.Middlewares.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\FileMiddleware.cs:line 25
+   at WebApplication1.Middlewares.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\AuthMiddleware.cs:line 19
+   at WebApplication1.Middlewares.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.Middlewares.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\SecondPageMiddleware.cs:line 14
+   at WebApplication1.Middlewares.FirstPageMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\FirstPageMiddleware.cs:line 21
+   at WebApplication1.Middlewares.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\FileMiddleware.cs:line 25
+   at WebApplication1.Middlewares.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\AuthMiddleware.cs:line 19
+   at WebApplication1.Middlewares.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\ErrorMiddleware.cs:line 15The method or operation is not implemented.
+   at WebApplication1.Middlewares.SecondPageMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\SecondPageMiddleware.cs:line 14
+   at WebApplication1.Middlewares.FirstPageMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\FirstPageMiddleware.cs:line 21
+   at WebApplication1.Middlewares.FileMiddleware.Invoke(HttpContext context) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\FileMiddleware.cs:line 25
+   at WebApplication1.Middlewares.AuthMiddleware.Invoke(HttpContext context, DataService dataService) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\AuthMiddleware.cs:line 19
+   at WebApplication1.Middlewares.ErrorMiddleware.Invoke(HttpContext context, ErrorHandler handler) in C:\Programování\3.ročník\6.semestr\C#\CV06\WebApplication1\WebApplication1\Middlewares\ErrorMiddleware.cs:line 15

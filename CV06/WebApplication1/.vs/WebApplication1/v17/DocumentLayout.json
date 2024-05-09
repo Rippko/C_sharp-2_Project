@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F93C7614-0D04-4CAD-B5CD-1C4D94616905}|WebApplication1\\WebApplication1.csproj|c:\\programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\c#\\cv06\\webapplication1\\webapplication1\\middlewares\\firstpagemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C7614-0D04-4CAD-B5CD-1C4D94616905}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middlewares\\firstpagemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93C7614-0D04-4CAD-B5CD-1C4D94616905}|WebApplication1\\WebApplication1.csproj|c:\\programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\c#\\cv06\\webapplication1\\webapplication1\\middlewares\\filemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C7614-0D04-4CAD-B5CD-1C4D94616905}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middlewares\\filemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93C7614-0D04-4CAD-B5CD-1C4D94616905}|WebApplication1\\WebApplication1.csproj|c:\\programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\c#\\cv06\\webapplication1\\webapplication1\\middlewares\\secondpagemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C7614-0D04-4CAD-B5CD-1C4D94616905}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middlewares\\secondpagemiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93C7614-0D04-4CAD-B5CD-1C4D94616905}|WebApplication1\\WebApplication1.csproj|c:\\programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\c#\\cv06\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C7614-0D04-4CAD-B5CD-1C4D94616905}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93C7614-0D04-4CAD-B5CD-1C4D94616905}|WebApplication1\\WebApplication1.csproj|c:\\programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\c#\\cv06\\webapplication1\\webapplication1\\middlewares\\formmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C7614-0D04-4CAD-B5CD-1C4D94616905}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middlewares\\formmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93C7614-0D04-4CAD-B5CD-1C4D94616905}|WebApplication1\\WebApplication1.csproj|c:\\programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\c#\\cv06\\webapplication1\\webapplication1\\middlewares\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C7614-0D04-4CAD-B5CD-1C4D94616905}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middlewares\\authmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F93C7614-0D04-4CAD-B5CD-1C4D94616905}|WebApplication1\\WebApplication1.csproj|c:\\programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\c#\\cv06\\webapplication1\\webapplication1\\middlewares\\errormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F93C7614-0D04-4CAD-B5CD-1C4D94616905}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middlewares\\errormiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMiddleware.cs",
+              "DocumentMoniker": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\WebApplication1\\Middlewares\\FormMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middlewares\\FormMiddleware.cs",
+              "ToolTip": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\WebApplication1\\Middlewares\\FormMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\Middlewares\\FormMiddleware.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:59:40.5Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T08:48:41.771Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ErrorMiddleware.cs",
+              "DocumentMoniker": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\WebApplication1\\Middlewares\\ErrorMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middlewares\\ErrorMiddleware.cs",
+              "ToolTip": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\WebApplication1\\Middlewares\\ErrorMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\Middlewares\\ErrorMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:16:09.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FileMiddleware.cs",
+              "DocumentMoniker": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\WebApplication1\\Middlewares\\FileMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middlewares\\FileMiddleware.cs",
+              "ToolTip": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\WebApplication1\\Middlewares\\FileMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\Middlewares\\FileMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:15:15.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SecondPageMiddleware.cs",
+              "DocumentMoniker": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\WebApplication1\\Middlewares\\SecondPageMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middlewares\\SecondPageMiddleware.cs",
+              "ToolTip": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\WebApplication1\\Middlewares\\SecondPageMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\Middlewares\\SecondPageMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T10:13:00.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FirstPageMiddleware.cs",
+              "DocumentMoniker": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\WebApplication1\\Middlewares\\FirstPageMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middlewares\\FirstPageMiddleware.cs",
+              "ToolTip": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\WebApplication1\\Middlewares\\FirstPageMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\Middlewares\\FirstPageMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:55:28.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthMiddleware.cs",
+              "DocumentMoniker": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\WebApplication1\\Middlewares\\AuthMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middlewares\\AuthMiddleware.cs",
+              "ToolTip": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV06\\WebApplication1\\WebApplication1\\Middlewares\\AuthMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\Middlewares\\AuthMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T09:54:34.509Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

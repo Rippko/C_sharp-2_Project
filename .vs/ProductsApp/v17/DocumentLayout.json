@@ -1,0 +1,95 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C509836-0448-406A-9808-148198B3512C}|ProductsApp\\ProductsApp.csproj|c:\\programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\c#\\productsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C509836-0448-406A-9808-148198B3512C}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C509836-0448-406A-9808-148198B3512C}|ProductsApp\\ProductsApp.csproj|c:\\programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\c#\\productsapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C509836-0448-406A-9808-148198B3512C}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C509836-0448-406A-9808-148198B3512C}|ProductsApp\\ProductsApp.csproj|c:\\programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\c#\\productsapp\\productsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0C509836-0448-406A-9808-148198B3512C}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\productsapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C509836-0448-406A-9808-148198B3512C}|ProductsApp\\ProductsApp.csproj|c:\\programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\c#\\productsapp\\calculator2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C509836-0448-406A-9808-148198B3512C}|ProductsApp\\ProductsApp.csproj|solutionrelative:productsapp\\calculator2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsApp",
+              "DocumentMoniker": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\ProductsApp\\ProductsApp.csproj",
+              "RelativeDocumentMoniker": "ProductsApp\\ProductsApp.csproj",
+              "ToolTip": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\ProductsApp\\ProductsApp.csproj",
+              "RelativeToolTip": "ProductsApp\\ProductsApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-22T14:13:19.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Calculator2.cs",
+              "DocumentMoniker": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\ProductsApp\\Calculator2.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Calculator2.cs",
+              "ToolTip": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\ProductsApp\\Calculator2.cs",
+              "RelativeToolTip": "ProductsApp\\Calculator2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:18:34.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\ProductsApp\\Calculator.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Calculator.cs",
+              "ToolTip": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\ProductsApp\\Calculator.cs",
+              "RelativeToolTip": "ProductsApp\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T10:00:35.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\ProductsApp\\Program.cs",
+              "RelativeDocumentMoniker": "ProductsApp\\Program.cs",
+              "ToolTip": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\ProductsApp\\Program.cs",
+              "RelativeToolTip": "ProductsApp\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwB0AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-22T09:50:06.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

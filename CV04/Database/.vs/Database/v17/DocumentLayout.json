@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV04\\Database\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ED49B2DC-D7FD-4F59-9661-176FA9EE81C9}|Database\\Database.csproj|c:\\programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\c#\\cv04\\database\\database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED49B2DC-D7FD-4F59-9661-176FA9EE81C9}|Database\\Database.csproj|solutionrelative:database\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV04\\Database\\Database\\Program.cs",
+              "RelativeDocumentMoniker": "Database\\Program.cs",
+              "ToolTip": "C:\\Programov\u00E1n\u00ED\\3.ro\u010Dn\u00EDk\\6.semestr\\C#\\CV04\\Database\\Database\\Program.cs",
+              "RelativeToolTip": "Database\\Program.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAswGgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-14T09:50:54.34Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

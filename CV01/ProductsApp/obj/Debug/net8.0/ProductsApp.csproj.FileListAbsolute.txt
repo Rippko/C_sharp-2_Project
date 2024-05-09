@@ -1,0 +1,14 @@
+C:\Programování\3.ročník\6.semestr\C#\ProductsApp\bin\Debug\net8.0\ProductsApp.exe
+C:\Programování\3.ročník\6.semestr\C#\ProductsApp\bin\Debug\net8.0\ProductsApp.deps.json
+C:\Programování\3.ročník\6.semestr\C#\ProductsApp\bin\Debug\net8.0\ProductsApp.runtimeconfig.json
+C:\Programování\3.ročník\6.semestr\C#\ProductsApp\bin\Debug\net8.0\ProductsApp.dll
+C:\Programování\3.ročník\6.semestr\C#\ProductsApp\bin\Debug\net8.0\ProductsApp.pdb
+C:\Programování\3.ročník\6.semestr\C#\ProductsApp\obj\Debug\net8.0\ProductsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programování\3.ročník\6.semestr\C#\ProductsApp\obj\Debug\net8.0\ProductsApp.AssemblyInfoInputs.cache
+C:\Programování\3.ročník\6.semestr\C#\ProductsApp\obj\Debug\net8.0\ProductsApp.AssemblyInfo.cs
+C:\Programování\3.ročník\6.semestr\C#\ProductsApp\obj\Debug\net8.0\ProductsApp.csproj.CoreCompileInputs.cache
+C:\Programování\3.ročník\6.semestr\C#\ProductsApp\obj\Debug\net8.0\ProductsApp.dll
+C:\Programování\3.ročník\6.semestr\C#\ProductsApp\obj\Debug\net8.0\refint\ProductsApp.dll
+C:\Programování\3.ročník\6.semestr\C#\ProductsApp\obj\Debug\net8.0\ProductsApp.pdb
+C:\Programování\3.ročník\6.semestr\C#\ProductsApp\obj\Debug\net8.0\ProductsApp.genruntimeconfig.cache
+C:\Programování\3.ročník\6.semestr\C#\ProductsApp\obj\Debug\net8.0\ref\ProductsApp.dll

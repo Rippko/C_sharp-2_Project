@@ -1,0 +1,11 @@
+C:\Programování\3.ročník\6.semestr\C#\CV02\MyLib\bin\Debug\net6.0\MyLib.deps.json
+C:\Programování\3.ročník\6.semestr\C#\CV02\MyLib\bin\Debug\net6.0\MyLib.dll
+C:\Programování\3.ročník\6.semestr\C#\CV02\MyLib\bin\Debug\net6.0\MyLib.pdb
+C:\Programování\3.ročník\6.semestr\C#\CV02\MyLib\obj\Debug\net6.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programování\3.ročník\6.semestr\C#\CV02\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfoInputs.cache
+C:\Programování\3.ročník\6.semestr\C#\CV02\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfo.cs
+C:\Programování\3.ročník\6.semestr\C#\CV02\MyLib\obj\Debug\net6.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Programování\3.ročník\6.semestr\C#\CV02\MyLib\obj\Debug\net6.0\MyLib.dll
+C:\Programování\3.ročník\6.semestr\C#\CV02\MyLib\obj\Debug\net6.0\refint\MyLib.dll
+C:\Programování\3.ročník\6.semestr\C#\CV02\MyLib\obj\Debug\net6.0\MyLib.pdb
+C:\Programování\3.ročník\6.semestr\C#\CV02\MyLib\obj\Debug\net6.0\ref\MyLib.dll
